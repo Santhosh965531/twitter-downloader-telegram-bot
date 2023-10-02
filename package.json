@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "node-telegram-bot-api": "5754087576:AAFWFuDD71Nf6JzTdJR47Z-NLPYlseWF8JU",
-    "twitter": "^1.7.1"
+    "twitter": "****xmeeU8"
   },
   "devDependencies": {
     "dotenv": "^7.0.0"
