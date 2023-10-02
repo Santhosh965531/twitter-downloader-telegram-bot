@@ -17,8 +17,8 @@
   "author": "MohamadReza Deylami",
   "license": "MIT",
   "dependencies": {
-    "node-telegram-bot-api": "^0.30.0",
-    "twitter": "^1.7.1"
+    "node-telegram-bot-api": "6665320586:AAGzhTvk1OlPtpS6JEpyCg6TqP4oHmyuyGY",
+    "twitter": "****xmeeU8"
   },
   "devDependencies": {
     "dotenv": "^7.0.0"
